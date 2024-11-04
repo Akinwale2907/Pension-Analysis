@@ -39,7 +39,7 @@ This project uses a simulated dataset representing pension fund data for 4,000 i
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/pension-fund-analysis.git
+   git clone https://github.com/Akinwale2907/Pension-Analysis
    cd pension-fund-analysis
    ```
 

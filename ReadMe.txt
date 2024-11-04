@@ -1,5 +1,5 @@
 
-# Pension Fund Analysis - Portfolio Project
+# Pension Fund Analysis Project
 
 ## Project Overview
 
